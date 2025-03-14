@@ -147,6 +147,9 @@ body{
     animation: ends 363s ease ;
     text-wrap: wrap;
 }
+p{
+    text-wrap: wrap;
+}
 @keyframes ends {
     0%{transform: translateX(-120%);} 
     99%{transform: translateX(-120%);}
